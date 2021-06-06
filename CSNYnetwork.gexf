@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="David Crosby" label="David Crosby" />
+      <node id="The Byrds" label="The Byrds" />
+      <node id="Crosby, Stills, Nash, &amp; Young" label="Crosby, Stills, Nash, &amp; Young" />
+      <node id="Crosby &amp; Nash" label="Crosby &amp; Nash" />
+      <node id="Crosby, Stills, &amp; Nash" label="Crosby, Stills, &amp; Nash" />
+      <node id="CPR" label="CPR" />
+      <node id="Snarky Puppy" label="Snarky Puppy" />
+      <node id="Buffalo Springfield" label="Buffalo Springfield" />
+      <node id="Jefferson Airplane" label="Jefferson Airplane" />
+      <node id="Phil Collins" label="Phil Collins" />
+      <node id="Stephen Stills" label="Stephen Stills" />
+      <node id="Au Go Go Singers" label="Au Go Go Singers" />
+      <node id="The Stills-Young Band" label="The Stills-Young Band" />
+      <node id="Manassas" label="Manassas" />
+      <node id="The Rides" label="The Rides" />
+      <node id="Judy Collins" label="Judy Collins" />
+      <node id="Graham Nash" label="Graham Nash" />
+      <node id="The Hollies" label="The Hollies" />
+      <node id="David Gilmour" label="David Gilmour" />
+      <node id="Jackson Browne" label="Jackson Browne" />
+      <node id="Neil Young" label="Neil Young" />
+      <node id="The Squires" label="The Squires" />
+      <node id="The Mynah Birds" label="The Mynah Birds" />
+      <node id="Rick James" label="Rick James" />
+      <node id="Crazy Horse" label="Crazy Horse" />
+      <node id="The Stray Gators" label="The Stray Gators" />
+      <node id="The Ducks" label="The Ducks" />
+      <node id="Northern Lights" label="Northern Lights" />
+      <node id="Pearl Jam" label="Pearl Jam" />
+      <node id="Booker T. Jones" label="Booker T. Jones" />
+      <node id="Leon Russell" label="Leon Russell" />
+      <node id="Elton John" label="Elton John" />
+      <node id="Pegi Morton Young" label="Pegi Morton Young" />
+      <node id="Promise of the Real" label="Promise of the Real" />
+      <node id="Willie Nelson" label="Willie Nelson" />
+    </nodes>
+    <edges>
+      <edge id="0" source="David Crosby" target="The Byrds" />
+      <edge id="1" source="David Crosby" target="Crosby, Stills, Nash, &amp; Young" />
+      <edge id="2" source="David Crosby" target="Crosby &amp; Nash" />
+      <edge id="3" source="David Crosby" target="Crosby, Stills, &amp; Nash" />
+      <edge id="4" source="David Crosby" target="CPR" />
+      <edge id="5" source="David Crosby" target="Snarky Puppy" />
+      <edge id="6" source="David Crosby" target="Buffalo Springfield" />
+      <edge id="7" source="David Crosby" target="Jefferson Airplane" />
+      <edge id="8" source="David Crosby" target="Phil Collins" />
+      <edge id="9" source="Crosby, Stills, Nash, &amp; Young" target="Stephen Stills" />
+      <edge id="10" source="Crosby, Stills, Nash, &amp; Young" target="Graham Nash" />
+      <edge id="11" source="Crosby, Stills, Nash, &amp; Young" target="Neil Young" />
+      <edge id="12" source="Crosby &amp; Nash" target="Graham Nash" />
+      <edge id="13" source="Crosby, Stills, &amp; Nash" target="Stephen Stills" />
+      <edge id="14" source="Crosby, Stills, &amp; Nash" target="Graham Nash" />
+      <edge id="15" source="Buffalo Springfield" target="Stephen Stills" />
+      <edge id="16" source="Buffalo Springfield" target="Neil Young" />
+      <edge id="17" source="Stephen Stills" target="Au Go Go Singers" />
+      <edge id="18" source="Stephen Stills" target="The Stills-Young Band" />
+      <edge id="19" source="Stephen Stills" target="Manassas" />
+      <edge id="20" source="Stephen Stills" target="The Rides" />
+      <edge id="21" source="Stephen Stills" target="Judy Collins" />
+      <edge id="22" source="The Stills-Young Band" target="Neil Young" />
+      <edge id="23" source="Graham Nash" target="The Hollies" />
+      <edge id="24" source="Graham Nash" target="David Gilmour" />
+      <edge id="25" source="Graham Nash" target="Jackson Browne" />
+      <edge id="26" source="Neil Young" target="The Squires" />
+      <edge id="27" source="Neil Young" target="The Mynah Birds" />
+      <edge id="28" source="Neil Young" target="Rick James" />
+      <edge id="29" source="Neil Young" target="Crazy Horse" />
+      <edge id="30" source="Neil Young" target="The Stray Gators" />
+      <edge id="31" source="Neil Young" target="The Ducks" />
+      <edge id="32" source="Neil Young" target="Northern Lights" />
+      <edge id="33" source="Neil Young" target="Pearl Jam" />
+      <edge id="34" source="Neil Young" target="Booker T. Jones" />
+      <edge id="35" source="Neil Young" target="Leon Russell" />
+      <edge id="36" source="Neil Young" target="Elton John" />
+      <edge id="37" source="Neil Young" target="Pegi Morton Young" />
+      <edge id="38" source="Neil Young" target="Promise of the Real" />
+      <edge id="39" source="Neil Young" target="Willie Nelson" />
+    </edges>
+  </graph>
+</gexf>
